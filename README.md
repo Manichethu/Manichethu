@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manikanta B N
-- 👀 I’m interested in exploring the Data field and finding useful insights and solving problems to the mankind.
+- 👀 I’m interested in exploring the Data science field and finding useful insights and solving problems to the mankind.
 - 🌱 I’m currently learning Python for Data Science.
-- 💞️ I’m looking to collaborate on with companies to implement and explore my learned knwledge about Data Science.
+- 💞️ I’m looking to collaborate on with companies to implement and explore further my learned knowledge on Data Science.
 - 📫 How to reach me ...You can reach me at manikanta22670@gmail.com
 
 <!---
